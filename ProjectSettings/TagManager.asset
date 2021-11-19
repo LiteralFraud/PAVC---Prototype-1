@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - floor
+  - objects
+  - walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: floor
+    uniqueID: 3823277063
+    locked: 0
+  - name: walls
+    uniqueID: 630007411
+    locked: 0
+  - name: floor2
+    uniqueID: 2231850069
+    locked: 0
+  - name: floor3
+    uniqueID: 2520480501
+    locked: 0
+  - name: wall2
+    uniqueID: 176328725
+    locked: 0
+  - name: rocks
+    uniqueID: 2955471455
+    locked: 0
+  - name: lil rocks
+    uniqueID: 1063532253
+    locked: 0
+  - name: objects
+    uniqueID: 2490244447
+    locked: 0
+  - name: cart
+    uniqueID: 968742595
+    locked: 0
+  - name: wall3
+    uniqueID: 1894818115
+    locked: 0
